@@ -1,0 +1,4 @@
+/.venv
+/random_forest_model.pkl
+/student_performance_mlops.csv
+/__pycache__
